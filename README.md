@@ -124,7 +124,7 @@ docker-compose logs app
 
 ### **4. Access the API**
 - **Application**: http://localhost:8080
-- **Swagger Documentation**: http://localhost:8080/api
+- **Swagger Documentation**: http://localhost:8080/had-swagger-docs
 - **PostgreSQL**: localhost:5433
 
 ## 🔗 **API Endpoints**
